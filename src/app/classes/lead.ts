@@ -3,7 +3,7 @@ export class Lead {
     lastname?:string;
     company?:string;
     product?:string;
-    sconto?:number;
+    promo?:number;
     sold?:string;
 
 }
